@@ -4,7 +4,7 @@ Plugin Name: Fortune
 Version: 0.3
 Plugin URI: https://github.com/pozharlab/FlatPress-Plugin-Fortune
 Description: Displays a pseudorandom message.
-Author: pozhar
+Author: Giovanni Forte
 Author URI: http://pozharlab.net
 */
 
