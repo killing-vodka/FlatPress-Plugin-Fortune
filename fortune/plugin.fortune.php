@@ -5,7 +5,7 @@ Version: 0.3
 Plugin URI: https://github.com/pozharlab/FlatPress-Plugin-Fortune
 Description: Displays a pseudorandom message.
 Author: Giovanni Forte
-Author URI: http://vodkafilm.it
+Author URI: http://www.vodkafilm.it
 */
 
 function plugin_fortune_widget() {
